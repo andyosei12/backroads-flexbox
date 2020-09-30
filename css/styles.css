@@ -334,9 +334,9 @@ Hero
 
 .hero-btn {
   padding: 0.9rem 1.6rem;
-  font-size: 1.25rem;
+  font-size: 1.15rem;
   background: var(--clr-white);
-  color: var(--clr-primary-5);
+  color: var(--clr-primary-4);
 }
 
 .hero-btn:hover {
